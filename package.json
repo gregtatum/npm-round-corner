@@ -1,6 +1,6 @@
 {
   "name": "npm-round-corner",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Round the corner of two line segments with an arc.",
   "main": "index.js",
   "scripts": {
