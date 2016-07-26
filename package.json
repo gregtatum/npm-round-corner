@@ -1,6 +1,6 @@
 {
   "name": "round-corner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Round the corner of two line segments with an arc.",
   "main": "index.js",
   "scripts": {
