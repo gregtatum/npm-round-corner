@@ -1,0 +1,39 @@
+{
+  "name": "npm-round-corner",
+  "version": "1.0.0",
+  "description": "Round the corner of two line segments with an arc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test",
+    "example:canvas": "budo examples/canvas",
+    "example:svg": "budo examples/svg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatumcreative/npm-round-corner.git"
+  },
+  "keywords": [
+    "corner",
+    "round",
+    "arc",
+    "lines",
+    "vectors",
+    "angles",
+    "geometry",
+    "canvas2d"
+  ],
+  "author": "Greg Tatum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tatumcreative/npm-round-corner/issues"
+  },
+  "homepage": "https://github.com/tatumcreative/npm-round-corner#readme",
+  "dependencies": {
+    "gl-vec2": "^1.0.0"
+  },
+  "devDependencies": {
+    "budo": "8.3.0",
+    "standard": "7.1.2",
+    "tape": "4.6.0"
+  }
+}
