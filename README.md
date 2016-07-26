@@ -72,6 +72,8 @@ function drawCanvas2dArc (ctx, sequence) {
 }
 ```
 
+See [http://requirebin.com/?gist=1f983fa07402e55b4cd2d04a17b020e0](this RequireBin) for a live example.
+
 ### SVG
 
 It can also be used with SVG with a few extra utility functions.
@@ -110,6 +112,8 @@ function toDegrees (radians) {
   return radians / Math.PI * 180
 }
 ```
+
+See [http://requirebin.com/?gist=d5ce508e7bb2e37bf828c0cacd5ddd06](this RequireBin) for a live example.
 
 ## Running the examples
 
