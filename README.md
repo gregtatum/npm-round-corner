@@ -72,7 +72,7 @@ function drawCanvas2dArc (ctx, sequence) {
 }
 ```
 
-See [http://requirebin.com/?gist=1f983fa07402e55b4cd2d04a17b020e0](this RequireBin) for a live example.
+See [this RequireBin](http://requirebin.com/?gist=1f983fa07402e55b4cd2d04a17b020e0) for a live example.
 
 ### SVG
 
@@ -113,7 +113,7 @@ function toDegrees (radians) {
 }
 ```
 
-See [http://requirebin.com/?gist=d5ce508e7bb2e37bf828c0cacd5ddd06](this RequireBin) for a live example.
+See [this RequireBin](http://requirebin.com/?gist=d5ce508e7bb2e37bf828c0cacd5ddd06) for a live example.
 
 ## Running the examples
 
